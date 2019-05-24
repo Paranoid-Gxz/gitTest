@@ -5,3 +5,4 @@ C3
 C4
 C5
 C6 for master.
+This is a update for a beautiful commit message.
