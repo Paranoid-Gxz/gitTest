@@ -15,3 +15,4 @@ Do some update to change origin/master
 这是修改了
 git config --global user.name "123"
 git config --global user.email "xz.guo.1994@gmail.com"
+Here I make som new update to make my second account conflict.
