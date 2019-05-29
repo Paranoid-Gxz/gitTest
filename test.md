@@ -9,3 +9,9 @@ This is a update for a beautiful commit message.
 Do some update to change origin/master
 
 这是Github2账号clone下来的内容，现在对内容进行一些修改。
+
+
+原来是Gxz xz.guo@foxmail.com
+这是修改了
+git config --global user.name "123"
+git config --global user.email "xz.guo.1994@gmail.com"
